@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Editar la Reserva</string>
+    <item name="androiddrawableBottom" type="drawable">@drawable/ic_action_name</item>
+</resources>
